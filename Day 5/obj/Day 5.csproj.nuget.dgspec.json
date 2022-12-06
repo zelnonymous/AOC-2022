@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Projects\\Advent of Code\\Day 3\\Day 3.csproj": {}
+    "D:\\Projects\\Advent of Code\\Day 5\\Day 5.csproj": {}
   },
   "projects": {
-    "d:\\Projects\\Advent of Code\\Day 3\\Day 3.csproj": {
+    "D:\\Projects\\Advent of Code\\Day 5\\Day 5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Projects\\Advent of Code\\Day 3\\Day 3.csproj",
-        "projectName": "Day 3",
-        "projectPath": "d:\\Projects\\Advent of Code\\Day 3\\Day 3.csproj",
+        "projectUniqueName": "D:\\Projects\\Advent of Code\\Day 5\\Day 5.csproj",
+        "projectName": "Day 5",
+        "projectPath": "D:\\Projects\\Advent of Code\\Day 5\\Day 5.csproj",
         "packagesPath": "C:\\Users\\zelnot\\.nuget\\packages\\",
-        "outputPath": "d:\\Projects\\Advent of Code\\Day 3\\obj\\",
+        "outputPath": "D:\\Projects\\Advent of Code\\Day 5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
