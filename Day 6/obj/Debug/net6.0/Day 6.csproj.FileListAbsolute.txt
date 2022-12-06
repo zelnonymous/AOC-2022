@@ -1,0 +1,15 @@
+D:\Projects\Advent of Code\Day 6\bin\Debug\net6.0\Day 6.exe
+D:\Projects\Advent of Code\Day 6\bin\Debug\net6.0\Day 6.deps.json
+D:\Projects\Advent of Code\Day 6\bin\Debug\net6.0\Day 6.runtimeconfig.json
+D:\Projects\Advent of Code\Day 6\bin\Debug\net6.0\Day 6.dll
+D:\Projects\Advent of Code\Day 6\bin\Debug\net6.0\Day 6.pdb
+D:\Projects\Advent of Code\Day 6\obj\Debug\net6.0\Day 6.csproj.AssemblyReference.cache
+D:\Projects\Advent of Code\Day 6\obj\Debug\net6.0\Day 6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Advent of Code\Day 6\obj\Debug\net6.0\Day 6.AssemblyInfoInputs.cache
+D:\Projects\Advent of Code\Day 6\obj\Debug\net6.0\Day 6.AssemblyInfo.cs
+D:\Projects\Advent of Code\Day 6\obj\Debug\net6.0\Day 6.csproj.CoreCompileInputs.cache
+D:\Projects\Advent of Code\Day 6\obj\Debug\net6.0\Day 6.dll
+D:\Projects\Advent of Code\Day 6\obj\Debug\net6.0\refint\Day 6.dll
+D:\Projects\Advent of Code\Day 6\obj\Debug\net6.0\Day 6.pdb
+D:\Projects\Advent of Code\Day 6\obj\Debug\net6.0\Day 6.genruntimeconfig.cache
+D:\Projects\Advent of Code\Day 6\obj\Debug\net6.0\ref\Day 6.dll
